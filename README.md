@@ -15,5 +15,7 @@ Thanks for checking out my profile!
 x Ryan
 
 Languages: HTML | CSS | JavaScript
-Framework/Libraries: React
+
+Libraries: React
+
 Tools: Git | VS Code | GitHub | Supabase | Adobe Ps Lr Ai Xd
