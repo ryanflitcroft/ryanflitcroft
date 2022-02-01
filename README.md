@@ -11,6 +11,7 @@ I will be graduating from Alchemy Code Lab in June 2022.
 Hoping to join your team as a creative, curious, and meticulous JS developer some time around then!
 
 Thanks for checking out my profile!
+
 x Ryan
 
 Languages: HTML | CSS | JavaScript
