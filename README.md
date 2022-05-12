@@ -1,25 +1,20 @@
-Hi there! I'm Ryan 👋
+**Hi! I'm Ryan, and I like writing code 😁💻** 
 
-I'm located in Portland, Oregon. 
+I'm a software developer, based in Portland, Oregon.
 
-I'm currently studying to become a full-stack software developer.
+Experienced contributor to full-stack software applications in HTML, CSS, JavaScript, & SQL.
 
-I will be graduating from Alchemy Code Lab in June 2022.
+___
 
-Hoping to join your team as a creative, curious, and meticulous JS developer some time around then!
+Here are some things I'm good at:
 
-Thanks for checking out my profile!
-
-Ryan
-
-
-
-Languages: HTML | CSS | JavaScript
-
-Libraries: React
-
-Database: Supabase 
-
-Version Control: GitHub
-
-Tools: Git | VS Code | Miro | Slack | Adobe Ps Lr Ai Xd
+| Tech Stack      |                                        |
+|-----------------|----------------------------------------|
+| Languages       | HTML, CSS, JS, SQL                     |
+| Libraries       | React, Socket.IO                       |
+| Frameworks      | Express                                |
+| Runtime         | Node.js                                |
+| Database        | Supabase, PostgreSQL                   |
+| Version Control | Git, GitHub                            |
+| Deployment      | Netlify, Heroku                        |
+| Tools           | VS Code, Postman, Adobe Ps Lr Ai Id Xd |
