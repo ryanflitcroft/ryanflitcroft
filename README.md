@@ -1,28 +1,19 @@
-**Hi! I'm Ryan, and I like writing code 😁💻** 
+## Hi! I'm Ryan. 
+
 
 I'm a software developer, based in Portland, Oregon.
 
-Experienced contributor to full-stack software applications in HTML, CSS, JavaScript, & SQL.
+I like coffee, film cameras, riding bikes, and writing code.
 
-I like writing code that is creative, organized, and accessible.
+🚲 &nbsp;&nbsp; 🎒 &nbsp;&nbsp; 🖥️ &nbsp;&nbsp; 🖱️ &nbsp;&nbsp; 📸 &nbsp;&nbsp; 💿 &nbsp;&nbsp; 💾 &nbsp;&nbsp; ⌨️ &nbsp;&nbsp; 📓 &nbsp;&nbsp; ☑️
 
-I like to spend my free time taking photos on film, riding bikes or roller skating, and going out for coffee and brunch. 
+&nbsp;  
 
-Feel free to say hey.
+**Here are some TIL and tools I use:**
 
-Thanks for checking out my page!
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,nuxtjs,express,sass,postgres,graphql,apollo,netlify,heroku,jest,postman,ps,ai,xd,figma,vscode,git,github&perline=8)](https://skillicons.dev)
 
-___
+&nbsp;  
+&nbsp;  
 
-Here are some things I'm good at:
-
-| Tech Stack      |                                        |
-|-----------------|----------------------------------------|
-| Languages       | HTML, CSS, JS, SQL                     |
-| Libraries       | React, Socket.IO                       |
-| Frameworks      | Express                                |
-| Runtime         | Node.js                                |
-| Database        | Supabase, PostgreSQL                   |
-| Version Control | Git, GitHub                            |
-| Deployment      | Netlify, Heroku                        |
-| Tools           | VS Code, Postman, Adobe Ps Lr Ai Id Xd |
+¯\\\_(ツ)\_/¯
